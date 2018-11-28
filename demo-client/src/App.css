@@ -1,3 +1,16 @@
 .App {
   text-align: center;
 }
+
+.singedUrl {
+  width: 370px;
+  font-size: 0.7rem;
+  margin: 1rem auto;
+  word-wrap: break-word;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.buttonBlock {
+  margin-top: 50px;
+}
